@@ -1,0 +1,97 @@
+h1 {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	font-family:consolas;
+	font-size:55px;
+}
+
+body {
+	background-color:#20B2AA;
+}
+
+footer {
+	display:flex;
+	justify-content:center;
+}
+
+footer div p {
+	text-align:left;
+	font-size:35px;
+	margin-left:20px;
+	font-family:book antiqua;
+}
+
+footer div img {
+	float:right;
+	margin-right: 30px;
+}
+
+.tyty {
+	display:flex;
+	justify-content:center;
+	font-family:comic sans ms;
+	font-size:55px;
+	margin-top:100px;
+}
+
+.tyty2 {
+font-size: 41px;
+font-weight:bold;
+}
+section.cs0 div p {
+	text-align: center;
+	font-size: 40px;
+	margin-top: 60px;
+	margin-left:50px;
+	margin-right:50px;
+	font-weight:bold;
+}
+
+section div img {
+ 	margin-left:250px;
+}
+
+.tytyty {
+	margin-top: 60px;
+}
+
+section.vav div p {
+	text-align: center;
+	font-size: 40px;
+	margin-top: 60px;
+	margin-left:40px;
+	margin-right:40px;
+	font-weight:bold;
+}
+
+.rain {
+	margin-bottom: 160px;
+}
+
+.popl {
+		float:right;
+	margin-right: 10px;
+}
+
+.popll {
+	margin-top:60px;
+	font-size: 50px;
+}
+
+.bulbulasha {
+	text-align:right;
+	font-size:54px;
+	font-weight:bold;
+}
+
+.lada {
+	text-align:left;
+	font-size:40px;
+}
+
+.kalina {
+	font-size: 42px;
+	margin-top: 100px;
+		font-weight:bold;
+}
